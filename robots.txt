@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /private/
-Allow: /public/
-Sitemap: https://susano234d.github.io/dewa234sl.github.io/sitemap.xml
